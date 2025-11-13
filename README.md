@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Praveen Kumar  
-🎓 Cybersecurity Enthusiast | Fresher  
+🎓 Tech Enthusiast | Fresher  
 📍 Madurai, India
 
 ## 🛠️ Skills
